@@ -96,4 +96,5 @@ Each project includes:
 
 📍 New York, NY  
 🔗 LinkedIn: linkedin.com/in/fang-wang-columbia
-🔗 GitHub: *you are here*
+
+🔗 GitHub: github.com/bublyGudo
