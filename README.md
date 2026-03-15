@@ -84,11 +84,8 @@ Each project includes:
 
 ## 📚 Selected Publications
 
-(Peer-reviewed research involving biomedical, clinical, and health-related datasets)
-
-- *Alzheimer’s & Dementia*, 2025  
-- *Early-life predictors of adolescent microbiome*, 2025  
-- Additional publications in molecular biology and plant sciences
+- Paolo Reho1, Vrinda Kalia, Gabriela L Jackson, Fang Wang, Erez Eiten, Kasey Brennan, Adam M Brickman, Richard Mayeux, Gary W Miller, Badri N Vardarajan, Andrea Baccarelli, Haotian Wu. Preclinical Alzheimer’s disease shows alterations in circulating neuronal-derived extracellular vesicle microRNAs in a multiethnic cohort. Alzheimer's & Dementia. 2025 Feb.  
+- Hannah E. Laue, Amy D. Willis, Fang Wang, Melinda C. MacDougall, Yingying Xu, Margaret R. Karagas, Juliette C. Madan, Abby F. Fleisch, Bruce P. Lanphear, Kim M. Cecil, Kimberly Yolton, Aimin Chen, Jessie P. Buckley, Joseph M. Braun. Early-life and concurrent predictors of the healthy adolescent microbiome in a cohort study. 2025 April.
 
 ---
 
