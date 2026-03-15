@@ -95,5 +95,5 @@ Each project includes:
 ## 📫 Contact
 
 📍 New York, NY  
-🔗 LinkedIn: *add link*  
+🔗 LinkedIn: linkedin.com/in/fang-wang-columbia
 🔗 GitHub: *you are here*
